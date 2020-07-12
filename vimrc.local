@@ -1,0 +1,11 @@
+set ruler
+set mouse=a
+set numberwidth=1
+set relativenumber
+set showcmd
+set sw=2
+set laststatus=2
+
+let mapleader=" "
+nmap <Leader>w :w<CR>
+nmap <Leader>q :q<CR>
